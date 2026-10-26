@@ -1,6 +1,6 @@
 console.log("Hello World!");
 
-let favoriteFoods = ["Ice Cream", "Sushi", "Tacos", "Pizza", "Steak", "Burgers"];
+let favoriteFoods = ["Ramen", "Sushi", "Tacos", "Pizza", "Steak", "Burgers"];
 
 for (let i = 0; i < favoriteFoods.length; i++) {
   console.log("One of my favorite foods is " + favoriteFoods[i] + ".");
@@ -16,9 +16,9 @@ function printFoodRecommendation(foodName) {
   console.log("Trust me — " + foodName + " is delicious.");
 }
 
-printFoodRecommendation("Ramen");
-printFoodRecommendation("Tacos");
-printFoodRecommendation("Steak");
+printFoodRecommendation("Sushi");
+printFoodRecommendation("Pho");
+printFoodRecommendation("Brisket");
 
 let friendFavorites = [
     "Pizza", "Sushi", "Pasta", "Falafel", "Burgers", "Ramen", "Pad Thai", "Curry", "Pho", "Nachos", "Gnocchi", "Donuts", "Steak", "Lasagna", "Biryani", "Tacos", "Croissant", "Churros", "Fried Rice", "Shawarma", "Miso Soup", "BBQ Ribs", "Hotpot", "Enchiladas", "Baklava", "Gyros", "Hummus", "Empanadas", "Pancakes", "Muffins", "Samosas", "Macarons", "Quiche", "Pierogi", "Arepas", "Okonomiyaki", "Ceviche", "Brisket", "Bao Buns", "Poutine", "Clam Chowder", "Fajitas", "Canelé", "Kimchi", "Tamales", "Omelette", "Biscuits", "Tempura", "Spring Rolls", "Crepes"
