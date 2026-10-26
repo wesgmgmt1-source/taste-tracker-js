@@ -1,6 +1,6 @@
 console.log("Hello World!");
 
-let favoriteFoods = ["Ramen", "Sushi", "Tacos", "Pizza", "Steak", "Burgers"];
+let favoriteFoods = ["Ice Cream", "Sushi", "Tacos", "Pizza", "Steak", "Burgers"];
 
 for (let i = 0; i < favoriteFoods.length; i++) {
   console.log("One of my favorite foods is " + favoriteFoods[i] + ".");
